@@ -4,7 +4,9 @@ import React from "react";
 const RegistrationScreen = () => {
   return (
     <View>
-      <Text>RegistrationScreen</Text>
+      <Text>testttttt</Text>
+
+      <Text> test two </Text>
     </View>
   );
 };
